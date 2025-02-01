@@ -1,0 +1,5 @@
+| Color     | RGB            | Result                                                                                        |
+| --------- | -------------- | --------------------------------------------------------------------------------------------- |
+| Blue      | `67, 163, 230` | <div style="background: rgb(67, 163, 230); height: 20px; margin: 0 auto; width: 20px;"></div> |
+| Dark Blue | `25, 33, 41`   | <div style="background: rgb(25, 33, 41); height: 20px; margin: 0 auto; width: 20px;"></div>   |
+| Text      | `0, 0, 0`      | <div style="background: rgb(0, 0, 0); height: 20px; margin: 0 auto; width: 20px;"></div>      |
